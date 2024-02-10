@@ -1,0 +1,6 @@
+name: Movementplus
+version: '${project.version}'
+main: me.cinarbayramic.movementplus.Movementplus
+api-version: 1.16
+authors: [ Cinarbayramic ]
+description: a movement plugin 
